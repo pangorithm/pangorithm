@@ -1,14 +1,66 @@
-### Pangorithm
+<!--
+헤더
+-->
+![header](https://capsule-render.vercel.app/api?type=waving&text=Pangorithm&color=timeGradient&fontSize=40&fontAlign=25&fontAlignY=30)
 
 <!--
+기술 스택 아이콘
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 -->
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-black?style=plastic&logo=javascript&logoColor=F7DF1E"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/react-black?style=plastic&logo=react&logoColor=61DAFB"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/openjdk-black?style=plastic&logo=openjdk&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/spring-black?style=plastic&logo=spring&logoColor=6DB33F"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangorithm&show_icons=true&theme=apprentice )
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Koa-33333D?style=flat&logo=Koa&logoColor=white">
+	<br>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat&logo=naver&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+	<a href="https://dewtide.tistory.com/">
+		<img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=tistory&logoColor=white" />
+	</a>
+	<a href="mailto:phs559800@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	<br>
+</div>
+<div>  
+  <br>
+  <br>
+</div>
+<!--
+깃허브 스탯
+-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangorithm&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=pangorithm&show_icons=true&theme=buefy">
 
 <!--
 **pangorithm/pangorithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
