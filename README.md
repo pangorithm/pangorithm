@@ -1,7 +1,9 @@
 <!--
 헤더
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&text=Pangorithm&color=timeGradient&fontSize=40&fontAlign=25&fontAlignY=30)
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&text=Pangorithm&color=timeGradient&fontSize=40&fontAlign=25&fontAlignY=30" />
+</div>
 
 <!--
 기술 스택 아이콘
@@ -58,9 +60,22 @@
 </div>
 <!--
 깃허브 스탯
+<div align=center>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangorithm&layout=compact&langs_count=8" />
+	<img src="https://github-readme-stats.vercel.app/api?username=pangorithm&show_icons=true&theme=buefy" />
+</div>
+<div>  
+  <br>
+  <br>
+</div>
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangorithm&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=pangorithm&show_icons=true&theme=buefy">
+		
+<!--
+3d 잔디
+-->
+<div align=center>	
+	<img src="./profile-3d-contrib/profile-gitblock.svg">
+</div>
 
 <!--
 **pangorithm/pangorithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
