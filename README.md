@@ -12,20 +12,28 @@
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<p>✨ Languages & platforms ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+	<br>
   	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Koa-33333D?style=flat&logo=Koa&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
 	<br>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
+	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
 </div>
 <br>
 
@@ -42,7 +50,7 @@
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
-	<img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat&logo=naver&logoColor=white" />
+	<img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat&logo=naver&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jira%20Software-0052CC?style=flat&logo=jirasoftware&logoColor=white" />
