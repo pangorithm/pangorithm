@@ -8,25 +8,29 @@
 <!--
 기술 스택 아이콘
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img alt="메모" src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-style="flat"
-style="plastic"
-style="flat-square"
-style="for-the-badge"
-style="social"
 flat (default), flat-square, plastic, for-the-badge, social
+주석 처리 된 기술 => 숙련도 미흡 또는 습득 예정
 -->
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<table width="100%">
-	  <tr>
+	<h3>🛠 Tech Stack 🛠</h3>
+	<table width="100%">	  <tr>
 			<th rowspan="2">
-				<font><b>FrontEnd</b></font>
+				<font><b>Base</b></font>
 			</th>
 			<td>Language</td>
 			<td>
 				<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+				<img alt="java" src="https://img.shields.io/badge/Java-CC0000?style=flat&logo=OpenJDK&logoColor=white"/>
+				<!-- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> -->
 			</td>
+		</tr>
+		<tr>
+		</tr>
+	  <tr>
+			<th rowspan="2">
+				<font><b>FrontEnd</b></font>
+			</th>
 		</tr>
 		<tr>
 			<td>Platform</td>
@@ -36,17 +40,13 @@ flat (default), flat-square, plastic, for-the-badge, social
 				<img alt="JavaScript" src="https://img.shields.io/badge/VanilaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 				<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   			<img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+				<img alt="jsp" src="https://img.shields.io/badge/JSP-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"/>
 			</td>
 		</tr>
 		<tr>
 			<th rowspan="4">
 				<font><b>BackEnd</b></font>
 			</th>
-			<td>Language</td>
-			<td>
-				<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-				<img alt="java" src="https://img.shields.io/badge/Java-CC0000?style=flat&logo=OpenJDK&logoColor=white"/>
-			</td>
 		</tr>
 		<tr>
 			<td>Platform</td>
@@ -63,7 +63,7 @@ flat (default), flat-square, plastic, for-the-badge, social
 				<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
 				<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
 				<img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-				<img alt="spring data jpa" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=Spring&logoColor=white" />
+				<!-- <img alt="spring data jpa" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=Spring&logoColor=white" /> -->
 			</td>
 		</tr>
 		<tr>
@@ -75,7 +75,7 @@ flat (default), flat-square, plastic, for-the-badge, social
 		</tr>
 		<tr>
 			<th><font><b>DataBase</b></font></th>
-			<td>Language</td>
+			<td>DBMS</td>
 			<td>
 				<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 				<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
@@ -103,9 +103,9 @@ flat (default), flat-square, plastic, for-the-badge, social
 		<tr>
 			<td>IDE</td>
 			<td>
-				<img alt="Intellij" src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white" />
-				<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse-IDE&logoColor=white" />
 				<img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white" />
+				<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse-IDE&logoColor=white" />
+				<img alt="Intellij" src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white" />
 			</td>
 		</tr>
 		<tr>
@@ -113,14 +113,14 @@ flat (default), flat-square, plastic, for-the-badge, social
 			<td>
       	<!-- <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white" /> -->
 				<img alt="NCP" src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat&logo=Naver&logoColor=white" />
-				<!-- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-				<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> -->
+				<!-- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> -->
 			</td>
 		</tr>
 		<tr>
 			<td>BUILD, DEPLOY</td>
 			<td>
 				<img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=NPM&logoColor=white" />
+				<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
 				<img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
 				<!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 				<img alt="Docker Compose" src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=Docker&logoColor=white" /> -->
