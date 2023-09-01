@@ -140,6 +140,10 @@ flat (default), flat-square, plastic, for-the-badge, social
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
+<!-- Hits -->
+<a href="https://hits.seeyoufarm.com">
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpangorithm%2Fhit-counter&count_bg=%23CBCBCB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</a>
 	<a href="https://dewtide.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=tistory&logoColor=white" />
 	</a>
@@ -153,18 +157,24 @@ flat (default), flat-square, plastic, for-the-badge, social
 <br>
 <br>
 
-<!--
-깃허브 스탯
+
+
+
 <div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangorithm&layout=compact&langs_count=8" />
+	<!-- 백준 티어 -->
+	<!-- <a href="https://solved.ac/pangorithm">
+		<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pangorithm"/>
+	</a> -->
+	<a href="https://solved.ac/pangorithm">
+		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pangorithm"/>
+	</a>
+	<!-- 깃허브 스탯 -->
+	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangorithm&layout=compact&langs_count=8" /> -->
 	<img src="https://github-readme-stats.vercel.app/api?username=pangorithm&show_icons=true&theme=buefy" />
+  <br>
+  <br>
 </div>
 
-<div>
-  <br>
-  <br>
-</div>
--->
 
 <!--
 3d 잔디
