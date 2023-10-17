@@ -161,7 +161,9 @@ flat (default), flat-square, plastic, for-the-badge, social
 	</a> -->
 	<a href="https://solved.ac/pangorithm">
 		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pangorithm"/>
+	  <img src="http://mazandi.herokuapp.com/api?handle=pangorithm&theme=cold"/>
 	</a>
+	<br>
 	<!-- 깃허브 스탯 -->
 	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangorithm&layout=compact&langs_count=8" /> -->
 	<img src="https://github-readme-stats.vercel.app/api?username=pangorithm&show_icons=true&theme=buefy" />
