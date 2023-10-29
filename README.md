@@ -107,7 +107,7 @@ flat (default), flat-square, plastic, for-the-badge, social
 			</td>
 		</tr>
 		<tr>
-			<th rowspan="5"><font><b>ETC</b></font></th>
+			<th rowspan="4"><font><b>ETC</b></font></th>
 			<td>VCS</td>
 			<td>
 				<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
@@ -115,15 +115,15 @@ flat (default), flat-square, plastic, for-the-badge, social
 				<!-- <img alt="Jira" src="https://img.shields.io/badge/Jira%20Software-0052CC?style=flat&logo=jirasoftware&logoColor=white" /> -->
 			</td>
 		</tr>
-		<tr>
+		<!-- <tr>
 			<td>OS</td>
 			<td>
-      	<!-- <img alt="Mac" src="https://img.shields.io/badge/Mac_OS-000000?style=flat&logo=Apple&logoColor=white" /> -->
+      	<img alt="Mac" src="https://img.shields.io/badge/Mac_OS-000000?style=flat&logo=Apple&logoColor=white" />
 				<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
 				<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 				<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
 			</td>
-		</tr>
+		</tr> -->
 		<tr>
 			<td>IDE</td>
 			<td>
