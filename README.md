@@ -169,7 +169,7 @@ flat (default), flat-square, plastic, for-the-badge, social
 	<a href="mailto:phs559800@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://github.com/pangorithm">
+	<a href="https://pangorithm.github.io/resume-nextjs/">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	</a>
 </div>
