@@ -189,7 +189,7 @@ flat (default), flat-square, plastic, for-the-badge, social
 	</a> -->
 	<a href="https://solved.ac/pangorithm">
 		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pangorithm"/>
-	  <img src="http://mazandi.herokuapp.com/api?handle=pangorithm&theme=cold"/>
+		<!--<img src="http://mazandi.herokuapp.com/api?handle=pangorithm&theme=cold"/> -->
 	</a>
 	<br>
 	<!-- 깃허브 스탯 -->
