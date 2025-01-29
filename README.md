@@ -49,6 +49,7 @@ flat (default), flat-square, plastic, for-the-badge, social
 				<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 				<img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
 				<img alt="java" src="https://img.shields.io/badge/Java-CC0000?style=flat&logo=OpenJDK&logoColor=white"/>
+				<img alt="rust" src="https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white"/>
 				<!-- <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/> -->
 				<!-- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> -->
 			</td>
@@ -65,6 +66,8 @@ flat (default), flat-square, plastic, for-the-badge, social
 				<img alt="JQuery" src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=JQuery&logoColor=white" />
 				<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   			<img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+  			<!-- <img alt="Solid" src="https://img.shields.io/badge/Solid-2C4F7C?style=flat&logo=Solid&logoColor=white"/> -->
+  			<img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white"/>
 				<!-- <img alt="jsp" src="https://img.shields.io/badge/JSP-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"/> -->
 				<!-- <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/> -->
 			</td>
@@ -79,8 +82,8 @@ flat (default), flat-square, plastic, for-the-badge, social
 				<img alt="Koa" src="https://img.shields.io/badge/Koa-33333D?style=flat&logo=Koa&logoColor=white"/>
 				<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
 				<img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/>
-				<img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 				<img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />
+				<!-- <img alt="Axum" src="https://img.shields.io/badge/Axum-000000?style=flat&logo=rust&logoColor=white" /> -->
 			</td>
 		</tr>
 		<tr>
@@ -88,19 +91,28 @@ flat (default), flat-square, plastic, for-the-badge, social
 			<td>
 				<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
 				<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
-				<img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+				<!-- <img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" /> -->
 				<!-- <img alt="spring data jpa" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=Spring&logoColor=white" /> -->
+				<!-- <img alt="SeaORM" src="https://img.shields.io/badge/SeaORM-000000?style=flat&logo=rust&logoColor=white" /> -->
 			</td>
 		</tr>
-		<!-- <tr>
-			<td>WAS</td>
-			<td>
-  			<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-				<img alt="tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=Apache-Tomcat&logoColor=white" />
-			</td>
-		</tr> -->
 		<tr>
-			<th rowspan="1"><font><b>DataBase</b></font></th>
+			<th rowspan="3"><font><b>Infrastructure</b></font></th>
+			<td>Environment</td>
+			<td>
+				<img alt="Consul" src="https://img.shields.io/badge/Consul-F24C53?style=flat&logo=consul&logoColor=white" />
+				<img alt="CoreDns" src="https://img.shields.io/badge/CoreDns-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+			</td>
+		</tr>
+		<tr>
+			<td>LoadBalancer</td>
+			<td>
+  			<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+				<img alt="Haproxy" src="https://img.shields.io/badge/Haproxy-35495E?style=flat&logo=haproxy&logoColor=white" />
+				<img alt="Proxysql" src="https://img.shields.io/badge/ProxySQL-F29111?style=flat&logo=proxysql&logoColor=white" />
+			</td>
+		</tr>
+		<tr>
 			<td>DBMS</td>
 			<td>
 				<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
@@ -131,7 +143,6 @@ flat (default), flat-square, plastic, for-the-badge, social
 			<td>IDE</td>
 			<td>
 				<img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white" />
-				<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse-IDE&logoColor=white" />
 				<img alt="Intellij" src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white" />
 			</td>
 		</tr>
@@ -139,6 +150,8 @@ flat (default), flat-square, plastic, for-the-badge, social
 			<td>ETC</td>
 			<td>
       	<!-- <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white" /> -->
+				<img alt="rockylinux" src="https://img.shields.io/badge/RockyLinux-10B981?style=flat&logo=rockylinux&logoColor=white" />
+				<img alt="WSL" src="https://img.shields.io/badge/WSL-0078D4?style=flat&logo=Linux&logoColor=white" />
 				<img alt="NCP" src="https://img.shields.io/badge/NaverCloudPlatform-03C75A?style=flat&logo=Naver&logoColor=white" />
 				<!-- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> -->
 			</td>
@@ -147,11 +160,13 @@ flat (default), flat-square, plastic, for-the-badge, social
 			<td>BUILD, DEPLOY</td>
 			<td>
 				<img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=NPM&logoColor=white" />
-				<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
+				<!-- <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" /> -->
 				<img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
+				<img alt="Cargo" src="https://img.shields.io/badge/Cargo-000000?style=flat&logo=rust&logoColor=white" />
 				<!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" /> -->
 				<!-- <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> -->
 				<!-- <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" /> -->
+				<img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=Ansible&logoColor=white" />
 		</tr>
 	</table>
   <br>
